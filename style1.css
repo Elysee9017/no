@@ -30195,6 +30195,9 @@ p{
 }
 .body-nav13{
   padding: 10px;
+     width: 200px;
+     height: 40px;
+    text-align: center;
 }
 .body-nav14{
   display: flex;
@@ -30209,4 +30212,7 @@ p{
 }
 .body-nav16{
   padding: 10px;
+     width: 200px;
+  height: 60px;
+     text-align: center;
 }
